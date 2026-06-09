@@ -110,3 +110,4 @@ For Netlify: add `_redirects` to `public/`:
 /*  /index.html  200
 ```
 
+
